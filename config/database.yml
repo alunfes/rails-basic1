@@ -35,6 +35,5 @@ production:
   database: rails-basic1_production
   pool: 5
   username: root
-  password:
+  password: vHn6VBAWg9lXj4A
   socket: /tmp/mysql.sock
-  host: localhost
