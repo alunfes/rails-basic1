@@ -36,4 +36,5 @@ production:
   pool: 5
   username: root
   password: vHn6VBAWg9lXj4A
-  socket: /tmp/mysql.sock
+  host: loclahost
+  #socket: /tmp/mysql.sock
